@@ -1,8 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main(void)
+{	
 	
-	puts("programming is like building a multilingual puzzle");
-	include (0);
+	puts("\"programming is like building a multilingual puzzle");	
+
+	return (0);
 
 }
