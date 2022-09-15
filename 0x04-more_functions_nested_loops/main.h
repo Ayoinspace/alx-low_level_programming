@@ -1,5 +1,3 @@
-#ifndef HEADER_H
-#define HEADER_H
 
 int _putchar(char c);
 int _isupper(int c);
@@ -14,4 +12,4 @@ void print_square(int size);
 void print_triangle(int size);
 void print_number(int n)
 
-#endif /* MAIN_H */
+
